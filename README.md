@@ -12,7 +12,7 @@ data from Peru, analysed in R, Python and Stata.
 
 ## Projects
 
-Prototypes, open to collaboration and funding:
+Prototypes, open to collaboration:
 
 - [Observatorio Laboral del Perú](https://lotuslatte.github.io/peru-labour-observatory/): Peru's labour market from ENAHO microdata, 2014–2024 ([code](https://github.com/lotuslatte/peru-labour-observatory)).
 - [Observatorio de Migración del Perú](https://lotuslatte.github.io/peru-migration-observatory/): internal migration, the Venezuelan population and climate mobility ([code](https://github.com/lotuslatte/peru-migration-observatory)).
